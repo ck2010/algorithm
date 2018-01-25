@@ -12,6 +12,7 @@ algorithm practice
 `g++ -std=c++11 Einstein.cpp -o Einstein && ./Einstein`
 
 ### result
+# ![Einstein_answer](docs/images/Einstein_answer.png)
 | Yellow       | Blue         | Red          | Green        | White        | 
 | Norwegian    | Danish       | British      | German       | Swedish      | 
 | Cat          | Horse        | Bird         | Fish         | Dog          | 
