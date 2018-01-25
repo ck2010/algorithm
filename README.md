@@ -13,13 +13,6 @@ algorithm practice
 
 ### result
 # ![Einstein_answer](docs/images/Einstein_answer.png)
-| Yellow       | Blue         | Red          | Green        | White        | 
-| Norwegian    | Danish       | British      | German       | Swedish      | 
-| Cat          | Horse        | Bird         | Fish         | Dog          | 
-| Water        | Tea          | Milk         | Coffee       | Beer         | 
-| Dunhill      | Blend        | Pall Mall    | Prince       | Blue Master  | 
-Who keep fish? German
 
-real	0m0.017s
-user	0m0.013s
-sys	0m0.002s
+### machine
+MacBook Pro 2.7 GHz Intel Core i5
