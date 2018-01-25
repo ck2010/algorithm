@@ -3,10 +3,10 @@ algorithm practice
 
 ## Einstein puzzle
 
-### Einstein pullze detail
+### Einstein pullze detail description
 
-https://csl.name/post/einsteins-puzzle/
-https://www.douban.com/note/472913247/
+[einsteins-puzzle](https://csl.name/post/einsteins-puzzle/)
+[einsteins-puzzle in chinese](https://www.douban.com/note/472913247/)
 
 ### compile and run
 `g++ -std=c++11 Einstein.cpp -o Einstein && ./Einstein`
