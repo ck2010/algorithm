@@ -5,8 +5,8 @@ algorithm practice
 
 ### Einstein pullze detail description
 
-[einsteins-puzzle](https://csl.name/post/einsteins-puzzle/)
-[einsteins-puzzle in chinese](https://www.douban.com/note/472913247/)
++ [einsteins-puzzle](https://csl.name/post/einsteins-puzzle/)
++ [einsteins-puzzle in chinese](https://www.douban.com/note/472913247/)
 
 ### compile and run
 `g++ -std=c++11 Einstein.cpp -o Einstein && ./Einstein`
